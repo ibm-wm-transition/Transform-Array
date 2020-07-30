@@ -23,7 +23,7 @@ List of array transform available in the webMethods.io Integration are:
 1. An account in [webmethod.io](https://www.softwareag.cloud/site/product/webmethods-io-integration.html) with webMethods.io Integration access.
 
 ### Importing the recipie to your webMethods.io Integration tanent:
-1. Download the specific zip file which transform you want test, from this github page. ie [click here](https://github.com/anshu96788/Transform-Array/blob/master/Transform%20Pop.zip)
+1. Download the specific zip file which transform you want test, from this github page. ie [click here](https://github.com/SoftwareAG/Transform-Array/blob/master/Transform%20Pop.zip)
 2. Log in to your webmethod.io account then go to `webMethods.io Integration`.
 3. Select `Reciepes` the click on `Import`.
 ![image](https://user-images.githubusercontent.com/60179170/88805095-5d798500-d1cc-11ea-97de-dec146247ecc.png)
@@ -56,14 +56,6 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88811238-efd15700-d1d3-11ea-94f2-a9446973d50e.png)
 
 ### Test in Postman:
-1. Click on the webhook and coppy the link and click `Next`.
-![image](https://user-images.githubusercontent.com/60179170/88811813-a3d2e200-d1d4-11ea-8b8e-a30b73cb004f.png)
-2. Open Postman and paste the link.
-3. Coppy the body from the webhook. 
-![image](https://user-images.githubusercontent.com/60179170/88812058-ef858b80-d1d4-11ea-95c8-65aa4814ed4c.png)
-4. Paste this body in Postman . Keep the body format raw and type JSON. Now `Send` the request.
-![image](https://user-images.githubusercontent.com/60179170/88812421-5145f580-d1d5-11ea-9d3c-b4e43c5dec84.png)
-5. You will get the same response as  
 
 
 
