@@ -55,7 +55,9 @@ Yeee now you have succesfully imported the work flow.
 8. Now run the workflow it will give you output in the logger. Here you can see the array after a pop.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88811238-efd15700-d1d3-11ea-94f2-a9446973d50e.png)
 
-### Test in Postman:
+### Test With other input:
+1. Open the weebhook and change the data inside the body. <b> Donot change the key value and the formte of the data. ie. "data1" is key here and ARRAY is the formate of the data</b>.<br/>
+
 
 
 
