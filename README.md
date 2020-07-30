@@ -57,7 +57,8 @@ Yeee now you have succesfully imported the work flow.
 
 ### Test With other input:
 1. Open the weebhook and change the data inside the body. <b> Donot change the key value and the formte of the data. ie. "data1" is key here and ARRAY is the formate of the data</b>.<br/>
-
+![image](https://user-images.githubusercontent.com/60179170/88911225-2dd58600-d27b-11ea-9d87-7f148a217e19.png)
+2.  Now run the workflow it will give you output in the logger. Here you can see the new array after a pop.<br/>
 
 
 
