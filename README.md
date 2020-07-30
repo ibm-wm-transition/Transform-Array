@@ -52,7 +52,7 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88910377-05995780-d27a-11ea-99cc-b472dac0f0ef.png)
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/88810882-8d785680-d1d3-11ea-9c79-02d5d5f3be73.png)
-8. Now run the workflow it will give you output in the logger.<br/>
+8. Now run the workflow it will give you output in the logger. Here you can see the array after a pop.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88811238-efd15700-d1d3-11ea-94f2-a9446973d50e.png)
 
 ### Test in Postman:
