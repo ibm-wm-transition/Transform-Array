@@ -49,7 +49,7 @@ Yeee now you have succesfully imported the work flow.
 5. From the list click on webhook.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88810663-49855180-d1d3-11ea-914e-09f501278c2f.png)
 6. Click `Next`.
-![image](https://user-images.githubusercontent.com/60179170/88810576-2a86bf80-d1d3-11ea-84ea-7524908127e6.png)
+![image](https://user-images.githubusercontent.com/60179170/88910377-05995780-d27a-11ea-99cc-b472dac0f0ef.png)
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/88810882-8d785680-d1d3-11ea-9c79-02d5d5f3be73.png)
 8. Now run the workflow it will give you output in the logger.<br/>
